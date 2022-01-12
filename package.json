@@ -1,0 +1,13 @@
+{
+  "name": "one-char-hash",
+  "version": "1.0.0",
+  "repository": "https://github.com/ash0080/one-char-hash",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
