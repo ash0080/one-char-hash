@@ -11,7 +11,6 @@ const join = (a, b, c) => {
 
 const oneDemensionFeature = (str) => {
   const st = str.replace('/\s/g', '')
-  console.log('~~',st.length)
   if (st.length <= 1) {
     return 0
   }
