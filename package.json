@@ -12,5 +12,8 @@
     "unicode"
   ],
   "author": "ash0080",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "tap": "^15.1.5"
+  }
 }
