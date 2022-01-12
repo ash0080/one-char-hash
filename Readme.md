@@ -1,6 +1,8 @@
 # one-char-hash
 
-...
+## Changelogs
+1.0.3 Add a aimple 1-Demension vector feature to reduce the possibility of short string collisions
+
 ## Motive
 I just wanted to create an extremely short hash for certain checksum scenarios to reduce data transfer or storage, and it turned out beyond my expectation that I could represent it with only 1 character！
 
