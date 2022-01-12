@@ -3,6 +3,9 @@
 ...
 ## Motive
 I just wanted to create an extremely short hash for certain checksum scenarios to reduce data transfer or storage, and it turned out beyond my expectation that I could represent it with only 1 character！
+
+So unlike a regular hash, you can score this hash string by comparing each character.
+
 The algorithm itself is very simple, because the UTF-16 maximum value is 0x10FFFF and your hash will hardly be repeated with ascii string length < 9132, but the actual situation may be a little smaller than that, as to how to calculate the real possibility is beyond my current mathematical knowledge, so I mark it as AS IS, please use it with caution in production environments.
 
 ## Usage
