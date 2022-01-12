@@ -1,6 +1,6 @@
 {
   "name": "@ash0080/one-char-hash",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "repository": "https://github.com/ash0080/one-char-hash",
   "description": "Input an arbitrary length string, return a unicode char, collision possible ≈ 1/ 1 million, can be used as a simple extreme short hash, can be used for user fingerprint verification or other scenarios",
   "main": "index.js",

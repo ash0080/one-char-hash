@@ -1,5 +1,5 @@
 const sum = (str) => {
-  return str.split()
+  return str.split('')
             .reduce((acc, char) => {
               return acc + char.charCodeAt(0)
             }, 0)
